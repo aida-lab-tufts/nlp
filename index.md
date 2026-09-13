@@ -65,5 +65,6 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 - [Research paper readings](readings.md)
 - [Guest lectures](guest-speaker.md)
 - [Proposed final projects](projects.md)
+- [Tufts HPC info for DATA0221](Tufts-HPC.md)
 
 ---
