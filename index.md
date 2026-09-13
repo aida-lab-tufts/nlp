@@ -39,8 +39,8 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 | **Sep 21** | **Machine Learning, Naive Bayes** | continue from last time | [NB](https://web.stanford.edu/~jurafsky/slp3/B.pdf); [Logistic regression](https://web.stanford.edu/~jurafsky/slp3/4.pdf) | HW4.1 out | | team assignment; homework logistics; github intro |
 | **Sep 28** | **Logistic Regression, Deep Neural Networks** | [Slides](https://tufts.box.com/s/cuolqanc70oja979008es9zeh1w7n1yd) | [DNN](https://web.stanford.edu/~jurafsky/slp3/6.pdf) | HW5.1 out | | |
 | **Oct 5** | **Word Vectors and Embeddings** | [Slides](https://tufts.box.com/s/uli69mje9fqiym0zu6ho25rhphu7rd5u) | [Word embeddings](https://web.stanford.edu/~jurafsky/slp3/5.pdf); [w2v paper](https://arxiv.org/abs/1310.4546) | <span style="color:#8a0317;font-weight:600">HW2.1 due</span> | Code Review 2.1: **Team A** | Talk about final project rules |
-| **Oct 12** | **<span style="color:#8a0317;font-weight:600">No Class</span> (Indigenous People's Day)** | | | <span style="color:#8a0317;font-weight:600">HW4.1–5.1 due 10/13 6pm</span> | | |
-| **Oct 19** | **Sequence Labeling, RNN; LSTM; Attention** | [Slides](https://tufts.box.com/s/8lgd1a1ptpwexx3fddjk3dl4r2jfoxvz); [keras tutorial slides](https://docs.google.com/presentation/d/11500zRxme8y_dQcfhdXDgKu99z6zCRrSaoGAEoZJLgE/edit?usp=sharing) | [RNN; LSTM](https://web.stanford.edu/~jurafsky/slp3/13.pdf) | HW9.1 out | | Tensorflow Keras tutorial (Geneva) |
+| **Oct 12** | **<span style="color:#8a0317;font-weight:600">No Class</span> (Indigenous People's Day)** | | | | | |
+| **Oct 19** | **Sequence Labeling, RNN; LSTM; Attention** | [Slides](https://tufts.box.com/s/8lgd1a1ptpwexx3fddjk3dl4r2jfoxvz); [keras tutorial slides](https://docs.google.com/presentation/d/11500zRxme8y_dQcfhdXDgKu99z6zCRrSaoGAEoZJLgE/edit?usp=sharing) | [RNN; LSTM](https://web.stanford.edu/~jurafsky/slp3/13.pdf) | HW9.1 out; <span style="color:#8a0317;font-weight:600">HW4.1–5.1 due</span> | | Tensorflow Keras tutorial (Geneva) |
 | **Oct 26** | **Self-attention and Transformer** | [Slides](https://tufts.box.com/s/icacw4wijvunej94ds32cngts5x1mr1v) | [Transformer](https://web.stanford.edu/~jurafsky/slp3/8.pdf) | | Code Review 4.1–5.1: **Team B** | |
 | **Nov 2** | **Tufts HPC; Linguistics** <span style="color:#8a0317;font-weight:600">TBD</span> | [schedule](guest-speaker.md) | | <span style="color:#8a0317;font-weight:600">HW9.1 due</span> | | |
 | **Nov 9** | **BERT** | [Slides](https://tufts.box.com/s/paehi5tn8fvhk5tmq17d1wloa2e1l7t8) | [BERT](https://web.stanford.edu/~jurafsky/slp3/10.pdf) | <span style="color:#8a0317;font-weight:600">final project proposal due</span> | Code Review 9.1: **Team C**<br>Paper R3: **Team A** | |
@@ -55,11 +55,11 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 
 ## Resources
 
-- [Course syllabus (PDF)](DATA0297_syllabus_NLP.pdf) 
+- [Course syllabus (PDF)](DATA0221_NLP_syllabus.pdf) 
 - [Final project rules](final-proj.md)
-- [Textbook: <i>Speech and Language Processing 3rd edition</i> by Jurafsky & Martin (SLP3)](https://web.stanford.edu/~jurafsky/slp3/ed3book_aug25.pdf )
-- [Course Canvas](https://canvas.tufts.edu/courses/67839)
-- [Course GitHub](https://github.com/Tufts-University/NLP-Fall25)
+- [Textbook: <i>Speech and Language Processing 3rd edition</i> by Jurafsky & Martin (SLP3), August 19, 2026 release](https://tufts.box.com/s/ih745u1vmnnghhknkuerjofrq2kqsern)
+- [Course Canvas](https://canvas.tufts.edu/courses/77752)
+- [Course GitHub](https://github.com/Tufts-University/DATA0221-NLP-2026)
 - [Tufts academic calendar](https://students.tufts.edu/registrar/courses-and-calendars/academic-calendar)
 - [Assignment & presentation workflow](teams.md)
 - [Research paper readings](readings.md)

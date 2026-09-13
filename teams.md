@@ -4,14 +4,14 @@
 
 - We have 12 students in the class, which will divide into 3 teams. 
 - Each team has been assigned a team lead. 
-- Assignment and due date will be posted on Canvas, but you will be directed to the [GitHub repo]() main branch for the Jupyter Notebook. [^1]
+- Assignment and due date will be posted on Canvas, but you will be directed to the [GitHub repo](https://github.com/Tufts-University/DATA0221-NLP-2026) main branch for the Jupyter Notebook. [^1]
 - Each person must create their own branch on the GitHub repo and only work from that branch. 
 - The grading will be based on the final status of the code in your individual branch. 
 - You are allowed to discuss the homework with your team before you submit. 
 - Each team will present one code review in class (which means going over the code and results in your assignment).
 - Each team will also be assigned to present one research paper in class.
 
-[^1] Please send me your github username so I can add you to the repo. 
+[^1]: Please send me your github username so I can add you to the repo. 
 
 ## Code
 - When you start your assignment, follow the instructions on the GitHub repo and write the code independently. Work within your own branch.  
@@ -73,3 +73,5 @@ git pull
 Using git on the command line in your terminal is the correct way. However, for whatever reason, if you cannot make this work, you can also click download zip from github.com to download the assignment, and after you finished your assignment, you can click to upload files onto github.com directly (must be into your branch still, not the main branch) on the website. This way is the shortcut which is a set of operations that can be completed by clicking things on github.com website only without using git on your command line. It is not recommended but can be used as a last resort if you cannot get the command line to work and are short on time. 
 
 An intermediate option is to use the GitHub Desktop , which is a GUI version of the git command line. I use it sometimes and it is very convenient. 
+
+---
