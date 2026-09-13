@@ -4,7 +4,7 @@
 
 - We have 12 students in the class, which will divide into 3 teams. 
 - Each team has been assigned a team lead. 
-- Assignment and due date will be posted on Canvas, but you will be directed to the [GitHub repo](https://github.com/Tufts-University/NLP-course-fall2024/tree/main/HWs) main branch for the Jupyter Notebook. [^1]
+- Assignment and due date will be posted on Canvas, but you will be directed to the [GitHub repo]() main branch for the Jupyter Notebook. [^1]
 - Each person must create their own branch on the GitHub repo and only work from that branch. 
 - The grading will be based on the final status of the code in your individual branch. 
 - You are allowed to discuss the homework with your team before you submit. 
@@ -31,11 +31,6 @@
 ## Teams
 Team leads are responsible for guiding the discussions of the assignment during team meetings and organizing the presentations. 
 
-- Team Jacob: Emma Virnelli (Lead), Caleb Deitch, Bichen Tang, Geneva Yang, Harrison Chang
-
-- Team B:  Jingwen Feng(Lead), Maida Raza, Luodingyi Huang, Qingzhu Zhao, Xiaoheng Zhou
-
-- Team D: Allen Wu (Lead), Evelyn Sun, Ella Zhou, Kyle Ng
 
 ## Useful Github commands and resources
 0. You set up github on your command line in your terminal on your computer. You can Google how to do this, but here is a place to start: [link](https://git-scm.com/downloads)
