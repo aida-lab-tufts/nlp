@@ -47,7 +47,7 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 | **Nov 16** | **LLMs, ChatGPT, CoT, T5** | continue from last time | [LLMs](https://web.stanford.edu/~jurafsky/slp3/7.pdf) | HW11.1 out | | |
 | **Nov 23** | **LLMs and RAG** | [Slides](https://tufts.box.com/s/xvqeqvwieiqe6mvqmht75xrrgsxwz3ky) | [RAG](https://web.stanford.edu/~jurafsky/slp3/11.pdf) | | | |
 | **Nov 30** | **SOTA LLMs, Agent, NLP applications** | [Slides](https://tufts.box.com/s/wxugnh780fjxjnkm4kpceh2n0ah3ed36) | | | | |
-| **Dec 7** | **Industry Speaker** <span style="color:#8a0317;font-weight:600">TBD</span> | [schedule](guest-speaker.md); [slides](https://tufts.box.com/s/v4zvug3rmg64k172gfm37dc9w37gfr9q) | | | | |
+| **Dec 7** | **Industry Speaker** <span style="color:#8a0317;font-weight:600">TBD</span> | [schedule](guest-speaker.md) | | | | |
 | **Dec 14** | **Project Presentations** | | | | | |
 | **Dec 19** | **Final paper due** | | | | | |
 
