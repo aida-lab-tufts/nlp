@@ -1,10 +1,105 @@
+---
+---
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:wght@600;700&display=swap');
 
-/* Override the default font-size. */
+:root {
+  --accent: #418fde;
+  --accent-dark: #2c6cb0;
+  --accent-tint: #eaf3fc;
+  --ink: #1f2430;
+  --line: #e3e6ee;
+}
+
+/* Full-width layout (theme default caps content at ~1012px) */
+.container-lg {
+  max-width: 100%;
+  padding-left: 3vw;
+  padding-right: 3vw;
+}
+
+/* Typography */
 body {
-  font-size: 135%; /* Increase default font size by 15% */
-} 
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 145%;
+  color: var(--ink);
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-family: 'Lora', Georgia, serif;
+}
+
+h1 {
+  border-bottom: 3px solid var(--accent);
+  padding-bottom: 0.3em;
+}
+
+h2 {
+  color: var(--accent-dark);
+  margin-top: 1.8em;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+
+a:hover {
+  border-bottom-color: var(--accent);
+}
 
 blockquote {
-  border-left: 5px solid #007bff; /* Blue left border */
+  border-left: 5px solid var(--accent);
+  background: var(--accent-tint);
+  padding: 0.6em 1em;
+  margin-left: 0;
+}
+
+/* Schedule table */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  overflow: hidden;
+  width: 100%;
+}
+
+th {
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+  text-align: left;
+  padding: 0.6em 0.8em;
+}
+
+td {
+  padding: 0.6em 0.8em;
+  border-top: 1px solid var(--line);
+}
+
+tr:nth-child(even) td {
+  background: #f7f8fc;
+}
+
+tr:hover td {
+  background: var(--accent-tint);
+}
+
+/* Collapsible course info */
+details {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.6em 1em;
+  margin-bottom: 0.8em;
+  background: #fafbff;
+}
+
+details summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--accent-dark);
 }
