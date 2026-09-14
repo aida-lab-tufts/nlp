@@ -1,6 +1,6 @@
 # DATA0221: Introduction to Natural Language Processing (Fall 2026)
 
-**Instructor:** Shuo Zhang, Ph.D, Professor of the Practice, Tufts University   
+**Instructor:** Shuo Zhang, Ph.D, Professor of the Practice [[AIDA lab]](https://sites.tufts.edu/aida/)     
 **Email:** [Shuo.Zhang@tufts.edu](mailto:Shuo.Zhang@tufts.edu)  
 **Research Assistant:** Geneva Yang         
 **Email:** [Yuhan.Yang@tufts.edu
