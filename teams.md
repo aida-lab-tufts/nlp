@@ -13,6 +13,11 @@
 
 [^1]: Please send me your github username so I can add you to the repo. 
 
+### 2026 Fall Teams
+- A: Tom (lead), Amin, Patricia, Asmi
+- B: Erika (lead), Quinci, Kelvin, Tommy
+- C: Rahul (lead), Awo, Brianna, Sung-Chun
+
 ## Code
 - When you start your assignment, follow the instructions on the GitHub repo and write the code independently. Work within your own branch.  
 - As you iterate through your code, make commits and push to the GitHub repo on your branch. 

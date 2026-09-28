@@ -43,10 +43,10 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 | **Oct 19** | **Sequence Labeling, RNN; LSTM; Attention** | [Slides](https://tufts.box.com/s/8lgd1a1ptpwexx3fddjk3dl4r2jfoxvz) | [RNN; LSTM](https://web.stanford.edu/~jurafsky/slp3/13.pdf) | HW9.1 out; <span style="color:#8a0317;font-weight:600">HW4.1–5.1 due</span> | | Tensorflow Keras tutorial (Geneva) |
 | **Oct 26** | **Self-attention and Transformer** | [Slides](https://tufts.box.com/s/icacw4wijvunej94ds32cngts5x1mr1v) | [Transformer](https://web.stanford.edu/~jurafsky/slp3/8.pdf) | | Code Review 4.1–5.1: **Team B** | |
 | **Nov 2** | **Tufts HPC; Linguistics** <span style="color:#8a0317;font-weight:600">TBD</span> | [schedule](guest-speaker.md) | | <span style="color:#8a0317;font-weight:600">HW9.1 due</span> | | |
-| **Nov 9** | **BERT** | [Slides](https://tufts.box.com/s/paehi5tn8fvhk5tmq17d1wloa2e1l7t8) | [BERT](https://web.stanford.edu/~jurafsky/slp3/10.pdf) | <span style="color:#8a0317;font-weight:600">final project proposal due</span> | Code Review 9.1: **Team C**<br>Paper R3: **Team A** | |
-| **Nov 16** | **LLMs, ChatGPT, CoT, T5** | continue from last time | [LLMs](https://web.stanford.edu/~jurafsky/slp3/7.pdf) | HW11.1 out | Paper R2: **Team B** | |
-| **Nov 23** | **LLMs and RAG** | [Slides](https://tufts.box.com/s/xvqeqvwieiqe6mvqmht75xrrgsxwz3ky) | [RAG](https://web.stanford.edu/~jurafsky/slp3/11.pdf) | <span style="color:#8a0317;font-weight:600">HW11.1 due</span> | | |
-| **Nov 30** | **SOTA LLMs, Agent, NLP applications** | [Slides](https://tufts.box.com/s/wxugnh780fjxjnkm4kpceh2n0ah3ed36) | | | Paper R4: **Team C** | |
+| **Nov 9** | **BERT** | [Slides](https://tufts.box.com/s/paehi5tn8fvhk5tmq17d1wloa2e1l7t8) | [BERT](https://web.stanford.edu/~jurafsky/slp3/10.pdf) | <span style="color:#8a0317;font-weight:600">final project proposal due</span> | Code Review 9.1: **Team C** | |
+| **Nov 16** | **LLMs, ChatGPT, CoT, T5** | continue from last time | [LLMs](https://web.stanford.edu/~jurafsky/slp3/7.pdf) | HW11.1 out | Paper R2: **Team A** | |
+| **Nov 23** | **LLMs and RAG** | [Slides](https://tufts.box.com/s/xvqeqvwieiqe6mvqmht75xrrgsxwz3ky) | [RAG](https://web.stanford.edu/~jurafsky/slp3/11.pdf) | <span style="color:#8a0317;font-weight:600">HW11.1 due</span> | Paper R1: **Team B** | |
+| **Nov 30** | **SOTA LLMs, Agent, NLP applications** | [Slides](https://tufts.box.com/s/wxugnh780fjxjnkm4kpceh2n0ah3ed36) | | | Paper R3: **Team C** | |
 | **Dec 7** | **Industry Speaker** <span style="color:#8a0317;font-weight:600">TBD</span> | [schedule](guest-speaker.md) | | | | |
 | **Dec 14** | **Project Presentations** | | | | | |
 | **Dec 19** | **Final paper due** | | | <span style="color:#8a0317;font-weight:600">final paper due</span> | | |
