@@ -27,11 +27,10 @@
 - If a homework requries group discussion or code review from your team, then the team lead will call a meeting to discuss, in which case it is a mandatory meeting. 
 
 ## Submit
-- Please do not push any of your code to the remote (GitHub.com) until the due time on the due date. Otherwise your solution will be available for others to copy at any time. you can do that when you come to class, or right before the class. 
+- Please do not push any of your code to the remote (GitHub.com) until the due time on the due date. Otherwise your solution will be available for others to copy at any time. You can do that when you come to class, or right before the class. 
 
 ## Present (code review)
 - The team will be presenting a 10-15 minute code review explaining your team's implementation of the assignment in class, and any challenges you faced, any analytical insights you derived. This is to get on the same page about the homework, and also an opportunity for sharing your unique insights and your learnings with the class. 
-- Prior to the code review, every student will ask at least one question about the homework (or anything related to the homework in the class) on the platform Sli.do (links to follow). The team code review will need to make sure to address all of these questions in the presentation.
  
 ## Teams
 Team leads are responsible for guiding the discussions of the assignment during team meetings and organizing the presentations. 

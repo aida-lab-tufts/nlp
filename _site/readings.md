@@ -1,10 +1,10 @@
 # Research papers readings
 
-- R1: [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (blog post overview + paper)
-- R2: [Challenges and Opportunities in NLP Benchmarking](https://www.ruder.io/nlp-benchmarking/)
-- R3: [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250)
-- R4: [LLaMA: Open and Efficient Foundation Language
-								Models](https://arxiv.org/abs/2302.13971)
+- R1: [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361) 
+	- [optional extended reading:  Scaling Laws, Carefully ](https://lilianweng.github.io/posts/2026-06-24-scaling-laws/)
+- R2: [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via
+Reinforcement Learning](https://arxiv.org/pdf/2501.12948), [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
+- R3: [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
 
 # Presentations
 - Each team will present one research paper (even though everyone in the class should still read the paper)
