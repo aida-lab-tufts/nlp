@@ -88,8 +88,8 @@ For final paper submission, please upload a pdf file of the paper to Canvas (I w
 
 ## Important dates
 
-TBD - project initial proposal due (after this date, we can still refine the proposal but the general topic and direction should not change too much)
+Nov.9, 2026 - project initial proposal due (after this date, we can still refine the proposal but the general topic and direction should not change too much)
 
-TBD - last day of class, project presentation 
+Dec.14, 2026 - last day of class, project presentation 
 
-TBD - final paper due
+Dec.18, 2026 - final paper due
